@@ -1,0 +1,5 @@
+cryptography
+py
+lxml
+fastapi
+SQLAlchemy
